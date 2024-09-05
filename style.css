@@ -1,0 +1,46 @@
+h1{
+    font-family: "Sevillana", cursive;
+}
+/*Estilo del body*/
+body{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    background-color: #ffdde6;
+}
+/*Estilo de los pararfos*/
+p{
+    text-align: justify;
+    font-size: 18px;
+}
+/*Estilo de las imagenes*/
+#imagen{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+#biografia{
+    background-color: #ffc1d2;
+}
+#enlaces{
+    background-color: #ffc8d7;
+    
+}
+#album{
+    background-color: #ffcfdc;
+    
+}
+#colaboraciones{
+    background-color: #ffd6e1;
+}
+#listaO{
+    text-align: left;
+}
+#destacar{
+    border-radius: 300px;
+    border-style: dotted;
+    border-color: purple;
+}
+#formulario{
+    text-align: center;
+}
+
